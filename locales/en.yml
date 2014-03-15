@@ -1,0 +1,10 @@
+en:
+  lita:
+    handlers:
+      spotify:
+        play: play
+        stop: stop
+        queue: queue
+        show: show
+        playlist: playlist
+        remove: remove
